@@ -1,6 +1,6 @@
 module github.com/o-ga09/genkit-go
 
-go 1.23.0
+go 1.24
 
 require (
 	github.com/firebase/genkit/go v0.1.1
